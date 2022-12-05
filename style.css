@@ -9,7 +9,7 @@ body{
     padding: 0px 8px;
 }
 .left{
-
+padding: 8px;
 }
 .left h1{
     font-size: 3rem;
@@ -41,7 +41,7 @@ li #password{
     box-sizing: border-box;
 }
 li .btn{
-    padding: 8px 20px;
+    padding: 8px 10px;
 }
 #passwordLength{
     padding: 4px 10px;
