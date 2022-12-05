@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to top, #209cff 100%, #68e0cf 200%);
+    color: white;
+}
+.row{
+    margin-top: 3rem;
+}
+.left, .right{
+    padding: 0px 8px;
+}
+.left{
+
+}
+.left h1{
+    font-size: 3rem;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    padding: 8px;
+    background-color: #49adff;
+    height: 100%;
+}
+.right ul{
+    margin-top: 1rem;
+}
+li #password{
+    width: 70%;
+    color: white !important;
+    font-weight: bold;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+li .btn{
+    padding: 8px 20px;
+}
+#passwordLength{
+    padding: 4px 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.btns{
+    margin-bottom: 2rem;
+}
